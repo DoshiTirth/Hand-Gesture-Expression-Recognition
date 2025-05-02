@@ -17,6 +17,10 @@ A real-time hand gesture and facial expression recognition system using [MediaPi
 - TensorFlow / Keras
 - NumPy
 
+## Dataset for Expression Model
+
+[FER-2013](https://www.kaggle.com/datasets/msambare/fer2013)
+
 ## Expression Model
 
 The model `expression_model.h5` classifies facial expressions into the following categories:
@@ -28,3 +32,4 @@ The model `expression_model.h5` classifies facial expressions into the following
 - Sad
 - Surprise
 - Neutral
+
